@@ -1,7 +1,7 @@
-import "./App.css";
+import GradientGenerator from "./GradientGenerator";
 
 function App() {
-  return <div className="text-8xl font-bold">Hello World!</div>;
+  return <GradientGenerator />;
 }
 
 export default App;
